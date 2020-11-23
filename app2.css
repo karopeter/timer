@@ -1,0 +1,10 @@
+.hero {
+  background-color: green;
+  padding: 1rem 2rem;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff
+}
