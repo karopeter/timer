@@ -62,3 +62,17 @@ previousSibling
 style
 
 Accessing text from an element: 
+
+Getting and settingAttriibute
+
+// Finding parentChildSibilings 
+//properties and methods./
+It's a way of accessing the parent or the children or the nearest siblings 
+of a given element. They allow you to access other elements based off of the 
+of the current element thtat you're working 
+with. siblings share a parent.
+As you can see we can actually call querySelector on an element instead 
+of on the document so you can continue to search within something
+
+but if you just need the parents or the first child or the next siblings you can use these 
+nice properties
